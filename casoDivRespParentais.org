@@ -1,0 +1,15 @@
+#+title: Caso Div Resp Parentais
+#+Author: João Gomes de Almeida
+#+date: 9 de dezembro de 2024
+
+* Enunciado do caso
+
+*André*, cidadão português, e *Beatriz*, cidadã portuguesa, casaram-se no Luxemburgo no ano 2019. Aí viveram até junho de 2024. No dia 9 de jullho de 2024, na sequência de várias discussões conjugais, *André* sai de casa e mudou-se para Lisboa. Conseguiu, junto do seu empregador no Luxemburgo, um regime de trabalho híbrido, permitindo que só se tivesse de deslocar fisicamente às instalações do empregador, no Luxemburgo, por 3 dias em cada 15. Para o efeito, manteve um apartamento arrendado, com o apoio do empregador, no Luxemburgo.
+
+No dia 9 de dezembro de 2024, *André* intentou ação de divórcio contra *Beatriz* junto dos tribunais portugueses.
+
+*Questão 1:* os tribunais portugueses são internacionalmente competentes para julgar esta ação?
+
+Admita agora que *Beatriz* deu à luz, no Luxemburgo, em setembro de 2024, *Carla*, primeira filha de *André* e *Beatriz*. *André* pretende que os tribunais portugueses também regulem as responsabilidades parentais sobre *Carla*, alegando para o efeito que Portugal é o país com o qual *Carla* tem maior proximidade, pois é o da sua nacionalidade e o da nacionalidade de ambos os seus progenitores e é também o país onde residem habitualmente as famílias alargadas de ambos os seus progenitores, existindo, por isso, em Portugal, uma rede de apoio que melhor permite assegurar o salutar desenvolvimento da criança e os seus superiores interesses.
+
+*Questão 2:* os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais sobre *Carla*?
