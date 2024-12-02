@@ -1,7 +1,7 @@
 #+title: Caso prático n.º 1
 #+Author: João Gomes de Almeida
 #+date: 9 de dezembro de 2024
-#+options: toc:nil
+#+options: toc:nil num:nil
 
 
 * Enunciado do caso
@@ -20,6 +20,95 @@ Admita agora que *Beatriz* deu à luz, no Luxemburgo, em setembro de 2024, *Carl
 
 *Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?
 
-Admita agora que os tribunais portugueses se julgaram incompetentes para julgar a ação de divórcio intentada por *André*. *Daniel*, pai de *André*, cidadão português que toda a sua vida residiu em Portugal, decidir intentar junto dos tribunais portugueses ação de anulação do casamento de *André* e *Beatriz*, com fundamento em casamento anterior não dissolvido de *Beatriz*, à data da celebração do casamento.
+Admita agora que os tribunais portugueses se julgaram incompetentes para julgar a ação de divórcio intentada por *André*. *Daniel*, pai de *André*, cidadão português que toda a sua vida residiu em Portugal, decidir intentar junto dos tribunais portugueses ação de anulação do casamento de *André* e *Beatriz*, com fundamento em casamento anterior não dissolvido de *Beatriz*, à data da celebração do seu casamento com *André*.
 
 *Questão 5:* os tribunais portugueses são internacionalmente competentes para julgar a ação de anulação do casamento?
+
+Admita agora que *Beatriz* pretende reconhecer em Portugal o divórcio por mútuo consentimento que celebrou com *André*, junto de notário francês.
+
+*Questão 6:* é possível reconhecer o divórcio por múto consentimento celebrado perante notário francês em Portugal?
+
+/Variantes:/
+
+*Questão 6A:* a resposta à *questão 6* seria a mesma se *Beatriz* tivesse residência habitual em França à data em que foi celebrado o divórcio por mútuo consentimento celebrado perante notário francês?
+
+*Questão 6B:* a resposta à *questão 6* seria a mesma se *Beatriz* tivesse residência habitual em França à data em que foi celebrado o divórcio por mútuo consentimento celebrado perante notário francês *e* em Portugal tivesse sido proferida decisão de anulação do casamento?
+
+* Tópicos de resolução (abreviados)
+
+** *Questão 1:* os tribunais portugueses são internacionalmente competentes para julgar esta ação?
+
+*Resposta:* *1. Critérios atributivos de competência internacional baseados na residência habitual do cônjuge requerente. Considerações gerais.* O artigo 3.º, al. a), subal. v) e vi), do Regulamento Bruxelas II ter estabelecem que os tribunais do Estado-Membro da residência habitual do cônjuge requerente são internacionalmente competentes para julgar a ação de divórcio, desde que o cônjuge requerente aí tenha residido pelo menos 12 ou 6 meses imediatamente antes da data do pedido.
+
+Estes critérios colocaram questões sobre se (i) violavam o princípio da não discriminação em razão da nacionalidade, (ii) como se deveriam proceder à contagem do prazo de 12 ou 6 meses; e (iii) se o prazo poderia ser “completado” no decurso da ação.
+
+*2. Princípio da não discriminação em razão da nacionalidade.* Discutiu-se, na doutrina, se o critério atributivo de competência internacional aos tribunais do Estado-Membro do requerente, desde que ele aí residisse há pelo menos 6 meses e fosse nacional desse Estado-Membro violava o princípio da não discriminação em razão da nacionalidade, pois, alegava-se, trataria em melhores condições os nacionais desse Estado-Membro do que os nacionais dos restantes Estados-Membros.
+
+A questão foi colocada ao TJ no Acórdão OE contra VY, proc. C 522/20, de 10 de fevereiro de 2022.
+
+Neste acórdão, o TJ referiu que:
+
+#+begin_quote
+“37      É certo que a distinção operada pelo legislador da União no artigo 3.o, n.o 1, alínea a), quinto e sexto travessões, do Regulamento n.o 2201/2003 assenta na presunção de que um nacional terá, em princípio, vínculos mais estreitos com o seu país de origem do que uma pessoa que não é nacional do Estado em causa.
+38      Todavia, tendo em conta o objetivo de assegurar um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, o caráter objetivo do critério assente na nacionalidade do requerente, previsto no artigo 3.o, n.o 1, alínea a), sexto travessão, do Regulamento n.o 2201/2003, não pode ser contestado sem que seja posta em causa a margem de apreciação do legislador da União que preside à adoção desse critério.
+
+39      Além disso, o Tribunal de Justiça também admitiu, a respeito de um critério baseado na nacionalidade do interessado, que, mesmo que em situações marginais resultem inconvenientes pontuais da instauração de uma regulamentação geral e abstrata, não se pode criticar o legislador da União por ter recorrido a uma categorização, desde que não seja, pela sua própria natureza, discriminatória à luz do objetivo que prossegue (v., por analogia, Acórdãos de 16 de outubro de 1980, Hochstrass/Tribunal de Justiça, 147/79, EU:C:1980:238, n.o 14, e de 15 de abril de 2010, Gualtieri/Comissão, C‑485/08 P, EU:C:2010:188, n.o 81).
+
+40      No caso em apreço, não se pode censurar o legislador da União por se ter, em parte, baseado, no que respeita à aplicação da regra de competência do forum actoris, no critério da nacionalidade do requerente, para facilitar a determinação do vínculo efetivo com o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, subordinando a admissibilidade da ação de dissolução do vínculo matrimonial do requerente nacional desse Estado‑Membro ao cumprimento de um período de residência prévio mais curto do que aquele que é exigido a um requerente que não seja nacional do referido Estado‑Membro.
+
+41      Daqui resulta que, tendo em conta o objetivo de assegurar a existência de um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, a distinção operada pelo legislador da União, com base no critério da nacionalidade do requerente, no artigo 3.o, n.o 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003, não constitui uma diferença de tratamento baseada na nacionalidade proibida pelo artigo 18.º TFUE.”
+
+Ou seja, concluiu que não há violação do princípio da não discriminação em razão da nacionalidade.
+#+end_quote
+
+*3. Modo de contagem do prazo de 12 ou 6 meses.* Há muito se discutia na doutrina se era possível contabilizar períodos de mera residência do cônjuge requerente, desde que este fixasse a sua residência habitual antes da data de propositura da ação. Este entendimento era sustentado atendendo à letra do preceito, uma vez que na parte referente ao prazo se faz menção apenas a residência e não a residência habitual.
+
+A questão foi recentemente colocada ao Tribunal de Justiça no Acórdão BM contra LO, proc. C-462/22, de 6 de julho de 2023. O TJ, analisando o artigo 3.º, al. a), subal. vi), decidiu que este deve ser interpretado no sentido de que subordina a competência do tribunal de um Estado‑Membro para conhecer de um pedido de dissolução do vínculo matrimonial à circunstância de o requerente, nacional desse Estado‑Membro, fazer prova de que adquiriu residência habitual no referido Estado‑Membro pelo menos nos seis meses imediatamente anteriores à data do seu pedido.
+
+Ou seja, não é possível atender a um período de mera residência no cômputo dos 6 ou 12 meses. O cônjuge requerente tem de provar que tem residência habitual no Estado-Membro em que intentou a ação há, pelo menos, 6 ou 12 meses, consoante seja, ou não, nacional desse Estado-Membro.
+
+*4. Prazo “completado” no decurso da ação.* Embora não seja o ponto essencial do Acórdão, a verdade é que o mesmo parece também apontar a resolução para esta divergência doutrinal, ao exigir que o período de seis meses se perfaça antes da data do seu pedido. Concorda-se com esta solução, pelo menos nos casos em que se tenha de lidar com situações de litispendência.
+
+** *Questão 2:* os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais sobre *Carla*?
+
+*Resposta:* não. O artigo 7.º do RB II ter confere competência aos tribunais do Estado-Membro da residência habitual da criança e, no caso presente, apesar de todas as ligações a Portugal é inequívoco que a residência habitual da criança é no Luxemburgo, país onde sempre esteve desde que nasceu.
+
+#+begin_quote
+        In C-393/18 PPU97 the ECJ required the child to have been physically present in a Member State for it to be assumed that it was habitually resident in that Member State.
+
+        (...)
+
+        If the child is born while the mother is residing abroad (such as during a holiday or a stay in a specialist clinic), it does not share the habitual residence of the holder of parental responsibility with which it is due to grow up; rather, it is does not have any habitual residence. In the view of the ECJ, gaps in legal protection should not arise because the subsidiary provisions on jurisdiction (such as Arts. 13 and 14 of Brussels IIbis) apply.
+#+end_quote
+
+** *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
+
+*Resposta:* 1. Análise do artigo 10.º e da natureza dos pactos firmados /dentro/ e /fora/ do processo. 2. Análise do artigo 13.º.
+
+** *Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?
+
+*Resposta:* análise do artigo 12.º.
+
+** *Questão 5:* os tribunais portugueses são internacionalmente competentes para julgar a ação de anulação do casamento?
+
+Interpretação do artigo 3.º, n.º 1, alíneas /v/ e /vi/ (no caso seria aplicável a alínea /vi/). O Tribunal de Justiça, no Acórdão Mikołajczyk (proc. C-294/15) esclareceu que:
+
+#+begin_quote
+51 Daqui decorre que, embora uma ação de anulação do casamento intentada por um terceiro seja abrangida pelo âmbito de aplicação do Regulamento n.º 2201/2003, esse terceiro deve permanecer vinculado pelas regras de competência definidas em benefício dos cônjuges. Por outro lado, esta interpretação não priva o referido terceiro do acesso aos tribunais, na medida em que este pode invocar outros critérios de competência previstos no artigo 3.º desse regulamento.
+
+52 Por este motivo, o conceito de «requerente» na aceção do artigo 3.º, n.º 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003 [atual art. 3.º, n.º 1, alíneas v e vi do RB II ter] não engloba pessoas diferentes dos cônjuges.
+#+end_quote
+
+Como o conceito de requerente não abrange o pai de *André*, os tribunais portugueses não teriam competência internacional para julgar a ação de anulação do casamento.
+
+** *Questão 6:* é possível reconhecer o divórcio por múto consentimento celebrado perante notário francês em Portugal?
+
+*Resposta:* não, porque os tribunais franceses não tinham competência internacional para decretar o divórcio nos termos do artigo 3.º do Reg. Bruxelas II /ter/ (cf. artigo 65.º, n.º 1)
+
+** *Questão 6A:* a resposta à *questão 6* seria a mesma se *Beatriz* tivesse residência habitual em França à data em que foi celebrado o divórcio por mútuo consentimento celebrado perante notário francês?
+
+*Resposta:* a reposta não seria a mesma, porque nesta variante os tribunais franceses seriam internacionalmente competentes nos termos do art. 3.º, n.º 1, alínea /iv/. Desta forma, o ato autêntico que decreta o divórcio por mútuo consentimento beneficia de reconhecimento automático (art. 65.º, n.º 1). A autoridade de origem deve emitir a certidão a pedido de uma das partes (art. 66.º). Não se verificam, no caso, fundamentos de recusa (art. 68.º).
+
+** *Questão 6B:* a resposta à *questão 6* seria a mesma se *Beatriz* tivesse residência habitual em França à data em que foi celebrado o divórcio por mútuo consentimento celebrado perante notário francês *e* em Portugal tivesse sido proferida decisão de anulação do casamento?
+
+*Resposta:* neste caso não seria possível reconhecer o ato autêntico, mas por motivo diferente do da *questão 6*. O ato autêntico beneficia do regime de reconhecimento automático (art. 65.º, n.º 1), mas há um fundamento de recusa uma vez que a decisão de anulação do casamento proferida pelos tribunais portugueses é uma decisão incompatível com o ato autêntico, uma vez que a anulação destrói o casamento com efeitos retroativos, não pode reconhecer um divórcio de um casamento que deixou de existir na ordem jurídica portuguesa.
