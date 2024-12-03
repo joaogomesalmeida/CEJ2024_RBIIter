@@ -16,9 +16,11 @@ Admita agora que *Beatriz* deu à luz, no Luxemburgo, em setembro de 2024, *Carl
 
 *Questão 2:* os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais sobre *Carla*?
 
-/Variante:/
+/Variantes:/
 
 *Questão 2A:* a resposta à *questão 2* seria a mesma se *André* informasse o tribunal português que *Beatriz* e *Carla* se vão deslocar a Portugal, no período compreendido entre 20 de dezembro e 3 de janeiro, para passarem o Natal e o ano novo com a família materna?
+
+*Questão 2B:* admita agora que a gravidez foi de risco e, por causa disso, a *Beatriz* deslocou-se à Alemanhã para dar à luz a criança. Quando a *Carla* nasceu, mercê de algumas complicações e de ter nascido prematura, *Carla* não teve alta médica e permanece sob vigilância médica no estabelecimento hospitalar alemão até à data em que a ação de regulação das responsabilidades parentais foi intentada. A resposta à *questão 2* seria a mesma neste caso?
 
 *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
@@ -79,17 +81,19 @@ Ou seja, não é possível atender a um período de mera residência no cômputo
 
 *Resposta:* não. O artigo 7.º do RB II ter confere competência aos tribunais do Estado-Membro da residência habitual da criança e, no caso presente, apesar de todas as ligações a Portugal é inequívoco que a residência habitual da criança é no Luxemburgo, país onde sempre esteve desde que nasceu.
 
-#+begin_quote
-        In C-393/18 PPU97 the ECJ required the child to have been physically present in a Member State for it to be assumed that it was habitually resident in that Member State.
-
-        (...)
-
-        If the child is born while the mother is residing abroad (such as during a holiday or a stay in a specialist clinic), it does not share the habitual residence of the holder of parental responsibility with which it is due to grow up; rather, it is does not have any habitual residence. In the view of the ECJ, gaps in legal protection should not arise because the subsidiary provisions on jurisdiction (such as Arts. 13 and 14 of Brussels IIbis) apply.
-#+end_quote
-
 ** *Questão 2A:* a resposta à *questão 2* seria a mesma se *André* informasse o tribunal português que *Beatriz* e *Carla* se vão deslocar a Portugal, no período compreendido entre 20 de dezembro e 3 de janeiro, para passarem o Natal e o ano novo com a família materna?
 
 *Resposta:* não. Uma deslocação temporária como a descrita não tem a capacidade de modificar a residência habitual da criança.
+
+** Questão 2B: admita agora que a gravidez foi de risco e, por causa disso, a *Beatriz* deslocou-se à Alemanhã para dar à luz a criança. Quando a *Carla* nasceu, mercê de algumas complicações e de ter nascido prematura, *Carla* não teve alta médica e permanece sob vigilância médica no estabelecimento hospitalar alemão até à data em que a ação de regulação das responsabilidades parentais foi intentada. A resposta à *questão 2* seria a mesma neste caso?
+
+*Resposta:* não. Neste caso não se pode dizer que *Carla* tenha residência habitual no Luxemburgo (que é o Estado da residência habitual da mãe), uma vez que nunca esteve nesse Estado. Esta foi a conclusão a que o Tribunal de Justiça chegou no Acórdão UD contra XB (proc. C-393/18 PPU):
+
+#+begin_quote
+        53 Resulta das considerações expostas nos n.os 45 a 52 do presente acórdão que uma presença física no Estado-Membro no qual a criança está supostamente integrada é uma condição necessariamente prévia à apreciação da estabilidade dessa presença e que a «residência habitual», na aceção do Regulamento n.º 2201/2003, não pode, portanto, ser fixada num Estado-Membro no qual a criança nunca tenha estado.
+#+end_quote
+
+É muito discutível que a criança tenha residência habitual na Alemanha, uma vez que a deslocação para esse Estado teve carácter temporário ou ocasional. Parece mais correto entender que a criança /não/ tem residência habitual, devendo a competência para a ação de regulação das responsabilidades parentais ser determinada nos seguintes termos: (i) verificar se é possível celebrar um pacto de jurisdição nos termos do artigo 10.º; não sendo possível, recorrer ao artigo 11.º, n.º 1, e atribuir competência com base na presença da criança, o que significaria neste caso que os tribunais competentes seriam os alemães; em casos em que a criança não tenha presença em qualquer Estado-Membro, pode recorrer-se às restantes normas de competência internacional vigentes no Estado-Membro do foro (art. 14.º).
 
 ** *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
