@@ -1,0 +1,24 @@
+#+title: Caso prático n.º 2
+#+Author: João Gomes de Almeida
+#+date: 9 de dezembro de 2024
+#+latex_class: koma-article
+#+LaTeX_HEADER: \usepackage{fontspec}
+#+latex_header: \usepackage{polyglossia}
+#+LaTeX_HEADER: \setmainlanguage{portuguese}
+#+LaTeX_HEADER: \setotherlanguage{english}
+#+latex_header: \addto\captionsportuguese{\def\contentsname{Índice}}
+#+language: pt
+# a varíavel org-export-smart-quotes-alist não tem pt, por isso às "smart quotes" não funcionam. Quando mudo para italiano funciona. _RESOLVIDO_: aditei código ao config.el.
+#+options: toc:nil num:nil
+#+LATEX_HEADER: \KOMAoptions{headings=small}
+#+latex_compiler: xelatex
+# #+odt_styles_file: ~/dropbox/bibliografia/odt/modelo.odt
+#  #+cite_export: csl chicago-fullnote-bibliography.csl
+#+cite_export: csl chicago-fullnote-bibliography-16.csl
+
+
+* Enunciado do caso
+
+
+
+* Tópicos de resolução (abreviados)
