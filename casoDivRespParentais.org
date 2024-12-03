@@ -16,6 +16,10 @@ Admita agora que *Beatriz* deu à luz, no Luxemburgo, em setembro de 2024, *Carl
 
 *Questão 2:* os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais sobre *Carla*?
 
+/Variante:/
+
+*Questão 2A:* a resposta à *questão 2* seria a mesma se *André* informasse o tribunal português que *Beatriz* e *Carla* se vão deslocar a Portugal, no período compreendido entre 20 de dezembro e 3 de janeiro, para passarem o Natal e o ano novo com a família materna?
+
 *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
 *Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?
@@ -49,17 +53,19 @@ A questão foi colocada ao TJ no Acórdão OE contra VY, proc. C 522/20, de 10 d
 Neste acórdão, o TJ referiu que:
 
 #+begin_quote
-“37      É certo que a distinção operada pelo legislador da União no artigo 3.o, n.o 1, alínea a), quinto e sexto travessões, do Regulamento n.o 2201/2003 assenta na presunção de que um nacional terá, em princípio, vínculos mais estreitos com o seu país de origem do que uma pessoa que não é nacional do Estado em causa.
-38      Todavia, tendo em conta o objetivo de assegurar um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, o caráter objetivo do critério assente na nacionalidade do requerente, previsto no artigo 3.o, n.o 1, alínea a), sexto travessão, do Regulamento n.o 2201/2003, não pode ser contestado sem que seja posta em causa a margem de apreciação do legislador da União que preside à adoção desse critério.
+“37      É certo que a distinção operada pelo legislador da União no artigo 3.º, n.º 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003 assenta na presunção de que um nacional terá, em princípio, vínculos mais estreitos com o seu país de origem do que uma pessoa que não é nacional do Estado em causa.
 
-39      Além disso, o Tribunal de Justiça também admitiu, a respeito de um critério baseado na nacionalidade do interessado, que, mesmo que em situações marginais resultem inconvenientes pontuais da instauração de uma regulamentação geral e abstrata, não se pode criticar o legislador da União por ter recorrido a uma categorização, desde que não seja, pela sua própria natureza, discriminatória à luz do objetivo que prossegue (v., por analogia, Acórdãos de 16 de outubro de 1980, Hochstrass/Tribunal de Justiça, 147/79, EU:C:1980:238, n.o 14, e de 15 de abril de 2010, Gualtieri/Comissão, C‑485/08 P, EU:C:2010:188, n.o 81).
+38      Todavia, tendo em conta o objetivo de assegurar um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, o caráter objetivo do critério assente na nacionalidade do requerente, previsto no artigo 3.º, n.º 1, alínea a), sexto travessão, do Regulamento n.º 2201/2003, não pode ser contestado sem que seja posta em causa a margem de apreciação do legislador da União que preside à adoção desse critério.
+
+39      Além disso, o Tribunal de Justiça também admitiu, a respeito de um critério baseado na nacionalidade do interessado, que, mesmo que em situações marginais resultem inconvenientes pontuais da instauração de uma regulamentação geral e abstrata, não se pode criticar o legislador da União por ter recorrido a uma categorização, desde que não seja, pela sua própria natureza, discriminatória à luz do objetivo que prossegue (v., por analogia, Acórdãos de 16 de outubro de 1980, Hochstrass/Tribunal de Justiça, 147/79, EU:C:1980:238, n.º 14, e de 15 de abril de 2010, Gualtieri/Comissão, C‑485/08 P, EU:C:2010:188, n.º 81).
 
 40      No caso em apreço, não se pode censurar o legislador da União por se ter, em parte, baseado, no que respeita à aplicação da regra de competência do forum actoris, no critério da nacionalidade do requerente, para facilitar a determinação do vínculo efetivo com o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, subordinando a admissibilidade da ação de dissolução do vínculo matrimonial do requerente nacional desse Estado‑Membro ao cumprimento de um período de residência prévio mais curto do que aquele que é exigido a um requerente que não seja nacional do referido Estado‑Membro.
 
-41      Daqui resulta que, tendo em conta o objetivo de assegurar a existência de um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, a distinção operada pelo legislador da União, com base no critério da nacionalidade do requerente, no artigo 3.o, n.o 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003, não constitui uma diferença de tratamento baseada na nacionalidade proibida pelo artigo 18.º TFUE.”
+41      Daqui resulta que, tendo em conta o objetivo de assegurar a existência de um vínculo efetivo entre o requerente e o Estado‑Membro cujos tribunais são competentes para decidir sobre a dissolução do vínculo matrimonial em causa, a distinção operada pelo legislador da União, com base no critério da nacionalidade do requerente, no artigo 3.º, n.º 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003, não constitui uma diferença de tratamento baseada na nacionalidade proibida pelo artigo 18.º TFUE.”
+
+#+end_quote
 
 Ou seja, concluiu que não há violação do princípio da não discriminação em razão da nacionalidade.
-#+end_quote
 
 *3. Modo de contagem do prazo de 12 ou 6 meses.* Há muito se discutia na doutrina se era possível contabilizar períodos de mera residência do cônjuge requerente, desde que este fixasse a sua residência habitual antes da data de propositura da ação. Este entendimento era sustentado atendendo à letra do preceito, uma vez que na parte referente ao prazo se faz menção apenas a residência e não a residência habitual.
 
@@ -67,7 +73,7 @@ A questão foi recentemente colocada ao Tribunal de Justiça no Acórdão BM con
 
 Ou seja, não é possível atender a um período de mera residência no cômputo dos 6 ou 12 meses. O cônjuge requerente tem de provar que tem residência habitual no Estado-Membro em que intentou a ação há, pelo menos, 6 ou 12 meses, consoante seja, ou não, nacional desse Estado-Membro.
 
-*4. Prazo “completado” no decurso da ação.* Embora não seja o ponto essencial do Acórdão, a verdade é que o mesmo parece também apontar a resolução para esta divergência doutrinal, ao exigir que o período de seis meses se perfaça antes da data do seu pedido. Concorda-se com esta solução, pelo menos nos casos em que se tenha de lidar com situações de litispendência.
+*4. Prazo “completado” no decurso da ação.* Embora não seja o ponto essencial do Acórdão, a verdade é que o mesmo parece também apontar a resolução para esta divergência doutrinal, ao exigir que o período de seis meses se perfaça antes da data do seu pedido. Concorda-se com esta solução, pelo menos nos casos em que se tenha de lidar com situações de litispendência. Nos casos em que não há situações de litispendência o princípio da ecónomia processual pode legitimar uma solução de manutenção da ação se os 6 ou 12 meses de residência habitual se completarem na pendência da ação, mas antes da análise da competência internacional.
 
 ** *Questão 2:* os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais sobre *Carla*?
 
@@ -80,6 +86,10 @@ Ou seja, não é possível atender a um período de mera residência no cômputo
 
         If the child is born while the mother is residing abroad (such as during a holiday or a stay in a specialist clinic), it does not share the habitual residence of the holder of parental responsibility with which it is due to grow up; rather, it is does not have any habitual residence. In the view of the ECJ, gaps in legal protection should not arise because the subsidiary provisions on jurisdiction (such as Arts. 13 and 14 of Brussels IIbis) apply.
 #+end_quote
+
+** *Questão 2A:* a resposta à *questão 2* seria a mesma se *André* informasse o tribunal português que *Beatriz* e *Carla* se vão deslocar a Portugal, no período compreendido entre 20 de dezembro e 3 de janeiro, para passarem o Natal e o ano novo com a família materna?
+
+*Resposta:* não. Uma deslocação temporária como a descrita não tem a capacidade de modificar a residência habitual da criança.
 
 ** *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
@@ -111,4 +121,4 @@ Como o conceito de requerente não abrange o pai de *André*, os tribunais portu
 
 ** *Questão 6B:* a resposta à *questão 6* seria a mesma se *Beatriz* tivesse residência habitual em França à data em que foi celebrado o divórcio por mútuo consentimento celebrado perante notário francês *e* em Portugal tivesse sido proferida decisão de anulação do casamento?
 
-*Resposta:* neste caso não seria possível reconhecer o ato autêntico, mas por motivo diferente do da *questão 6*. O ato autêntico beneficia do regime de reconhecimento automático (art. 65.º, n.º 1), mas há um fundamento de recusa uma vez que a decisão de anulação do casamento proferida pelos tribunais portugueses é uma decisão incompatível com o ato autêntico, uma vez que a anulação destrói o casamento com efeitos retroativos, não pode reconhecer um divórcio de um casamento que deixou de existir na ordem jurídica portuguesa.
+*Resposta:* neste caso não seria possível reconhecer o ato autêntico, mas por motivo diferente do da *questão 6*. O ato autêntico beneficia do regime de reconhecimento automático (art. 65.º, n.º 1), mas há um fundamento de recusa uma vez que a decisão de anulação do casamento proferida pelos tribunais portugueses é uma decisão incompatível com o ato autêntico, uma vez que a anulação destrói o casamento com efeitos retroativos, não é possível reconhecer um divórcio de um casamento que deixou de existir na ordem jurídica portuguesa.
