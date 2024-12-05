@@ -1,4 +1,4 @@
-#+title: Caso prático n.º 2
+#+title: Caso Prático @@latex:\\@@ Rapto Internacional de Crianças
 #+Author: João Gomes de Almeida
 #+date: 9 de dezembro de 2024
 #+latex_class: koma-article
@@ -16,9 +16,12 @@
 #  #+cite_export: csl chicago-fullnote-bibliography.csl
 #+cite_export: csl chicago-fullnote-bibliography-16.csl
 
+* Caso n.º 1
+** Enunciado
 
-* Enunciado do caso
 
 
-
-* Tópicos de resolução (abreviados)
+** Tópicos de resolução (abreviados)
+* Caso n.º 2
+** Enunciado
+** Tópicos de resolução (abreviados)

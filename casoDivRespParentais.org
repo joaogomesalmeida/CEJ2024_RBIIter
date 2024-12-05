@@ -1,4 +1,5 @@
-#+title: Caso prático n.º 1
+#+title: Caso Prático @@latex:\\@@ Divórcio e Responsabilidades Parentais
+# #+title: Responsabilidades Parentais
 #+Author: João Gomes de Almeida
 #+date: 9 de dezembro de 2024
 #+latex_class: koma-article
@@ -17,7 +18,7 @@
 #+cite_export: csl chicago-fullnote-bibliography-16.csl
 
 
-* Enunciado do caso
+* Enunciado
 
 *André*, cidadão português, e *Beatriz*, cidadã portuguesa, casaram-se no Luxemburgo no ano 2019. Aí viveram até junho de 2024. No dia 9 de jullho de 2024, na sequência de várias discussões conjugais, *André* sai de casa e mudou-se para Lisboa. Conseguiu, junto do seu empregador no Luxemburgo, um regime de trabalho híbrido, permitindo que só se tivesse de deslocar fisicamente às instalações do empregador, no Luxemburgo, por 3 dias em cada 15. Para o efeito, manteve um apartamento arrendado, com o apoio do empregador, no Luxemburgo.
 
@@ -37,7 +38,7 @@ Admita agora que *Beatriz* deu à luz, no Luxemburgo, em setembro de 2024, *Carl
 
 *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
-*Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?
+*Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?  Na resposta a esta questão pondere as seguintes subhipóteses: (i) foi celebrado dentro do processo pacto de jurisdição a favor dos tribunais portugueses; (ii) foi celebrado fora do processo e considerado válido pacto de jurisdição /não exclusivo/ a favor dos tribunais portugueses; e (iii) não foi celebrado qualquer pacto de jurisdição a favor dos tribunais portugueses.
 
 Admita agora que os tribunais portugueses se julgaram incompetentes para julgar a ação de divórcio intentada por *André*. *Daniel*, pai de *André*, cidadão português que toda a sua vida residiu em Portugal, decidir intentar junto dos tribunais portugueses ação de anulação do casamento de *André* e *Beatriz*, com fundamento em casamento anterior não dissolvido de *Beatriz*, à data da celebração do seu casamento com *André*.
 
@@ -110,11 +111,19 @@ Ou seja, não é possível atender a um período de mera residência no cômputo
 
 ** *Questão 3:* seria possível atribuir competência exclusiva aos tribunais portugueses para regularem a matéria das responsabilidades parentais sobre *Carla*?
 
-*Resposta:* 1. Análise do artigo 10.º e da natureza dos pactos firmados /dentro/ e /fora/ do processo. 2. Análise do artigo 13.º.
+*Resposta:* 1. Análise do artigo 10.º e da natureza dos pactos firmados /dentro/ e /fora/ do processo.
 
-** *Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*?
+** *Questão 4:* e se o tribunal português considerar que os tribunais melhor colocados são os do Luxemburgo, pode pedir-lhes que sejam eles a julgar a ação de divórcio e a regulação das responsabilidade parentais sobre *Carla*? Na resposta a esta questão pondere as seguintes subhipóteses: (i) foi celebrado dentro do processo pacto de jurisdição a favor dos tribunais portugueses; (ii) foi celebrado fora do processo e considerado válido pacto de jurisdição /não exclusivo/ a favor dos tribunais portugueses; (iii) não foi celebrado qualquer pacto de jurisdição a favor dos tribunais portugueses.
 
-*Resposta:* análise do artigo 12.º.
+*Resposta:*.
+
+Subhipótese (i): não é possível transferir o caso porque a competência dos tribunais portugueses é exclusiva (art. 12.º, n.º 5 e 10.º, n.º 4).
+
+*Questão adicional a colocar aos formandos:* e, neste caso, se fosse o tribunal da Luxemburgo a pedir ao tribunal português a transferência para si do processo por considerar ser o tribunal melhor colocado? *Resposta:* apesar do artigo 13.º não ter expressamente a limitação de transferência nos casos de competência exclusiva, parece que a mesma se deve aplicar por analogia. Discutir com os formandos.
+
+Subhipótese (ii): sendo apenas um pacto atributivo de competência aos tribunais portugueses, o limite do artigo 12.º, n.º 5 não é aplicável. Discutir preenchimento do requisito da ligação particular (art. 12.º, n.º 4) ao Luxemburgo (é o local da residência habitual da criança e de um dos progenitores). Analisar se os tribunais do Luxemburgo estão melhor colocados para avaliar o superior interesse da criança no caso concreto (art. 12.º, n.º 1).
+
+Subhipítese (iii): o tribunal português não é internacionalmente competente, logo não pode transferir a competência, tem de se declarar incompetente (art. 18.º)
 
 ** *Questão 5:* os tribunais portugueses são internacionalmente competentes para julgar a ação de anulação do casamento?
 
