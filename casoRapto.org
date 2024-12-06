@@ -18,7 +18,7 @@
 
 * Caso n.º 1
 ** Enunciado
-*Júlio* e *Ana*, ambos nacionais espanhois, são os progenitores de duas crianças, V. e M. Em 2018 instalaram-se em Portugal e em 2021, ainda continuando a residir em Portugal, as crianças foram inscritas numa escola espanhola, realizando diariamente o trajeto entre a habitação familiar em Portugal e a sua nova escola em Espanha. As crianças comunicam com os seus pais e avós em castelhano e têm apenas conhecimentos rudimentares da língua portuguesa.
+*Júlio* e *Ana*, ambos nacionais espanhois, são os progenitores de duas crianças, *Vasco* e *Maria*. Em 2018 instalaram-se em Portugal e em 2021, ainda continuando a residir em Portugal, as crianças foram inscritas numa escola espanhola, realizando diariamente o trajeto entre a habitação familiar em Portugal e a sua nova escola em Espanha. As crianças comunicam com os seus pais e avós em castelhano e têm apenas conhecimentos rudimentares da língua portuguesa.
 
 Em julho de 2024, o casal desentendeu-se e *Ana* levou as crianças para viverem consigo em Espanha, sem o consentimento de *Júlio*.
 
@@ -38,17 +38,71 @@ Em setembro de 2024, *Júlio* apresentou um pedido de regresso junto dos tribuna
 
 ** Tópicos de resolução (abreviados)
 
-*Questão 1*: *Ana* pede aos tribunais portugueses que transfiram a competência para os tribunais espanhois, alegando que (i) as crianças nunca estiveram socialmente integradas em Portugal (ii) que, para além do processo de regresso pendente, existem outros processos pendentes intentados pelos progenitores com reflexos na proximidade em matéria probatória e (iii) que o deficiente conhecimento da língua portuguesa dificultaria a tramitação do processo em tribunais portugueses e o cumprimento do direito das crianças a serem ouvidas. Por seu lado, *Júlio* opõe-se a este pedido, afirmando que não é possível efetuar uma transferência de competência para os tribunais do Estado-Membro para que foram ilicitamente deslocadas as crianças, numa situação de rapto internacional. /Quid iuris/?
+*** *Questão 1*: *Ana* pede aos tribunais portugueses que transfiram a competência para os tribunais espanhois, alegando que (i) as crianças nunca estiveram socialmente integradas em Portugal (ii) que, para além do processo de regresso pendente, existem outros processos pendentes intentados pelos progenitores com reflexos na proximidade em matéria probatória e (iii) que o deficiente conhecimento da língua portuguesa dificultaria a tramitação do processo em tribunais portugueses e o cumprimento do direito das crianças a serem ouvidas. Por seu lado, *Júlio* opõe-se a este pedido, afirmando que não é possível efetuar uma transferência de competência para os tribunais do Estado-Membro para que foram ilicitamente deslocadas as crianças, numa situação de rapto internacional. /Quid iuris/?
 
-*Questão 2*: Imagine agora que são os tribunais espanhois quem se consideram melhor colocados para avaliar o superior interesse da criança no caso concreto e pretendem requerer aos tribunais portugueses (tribunais da residência habitual da criança antes da deslocação ilícita) a transferência de competência. Podem fazê-lo?
+*Resposta:* Análise do artigo 12.º do Regulamento Bruxelas II /ter/[fn:1]. A principal questão é a de saber se o tribunal do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas pode, oficiamente ou a pedido de uma das partes, "transferir" a competência para regular as responsabilidades parentais para os tribunais do Estado-Membro em que a criança foi ilicitamente deslocada ou retida.
 
-*Questão 3*: Admita agora que *Júlio* tinha intentado apenas o pedido de regresso junto dos tribunais espanhois e que o mesmo foi indeferido com fundamento apenas no risco grave para a criança, uma vez que *Júlio* admitiu ter sido violento, por uma vez, contra a *Ana*. A decisão foi proferida sem audição das crianças, com fundamento na necessidade de cumprir o prazo de seis semanas.
+A questão é algo complexa, uma vez que o princípio da Convenção da Haia de 1980 é o tramitação rápida dos pedidos de regresso para, em regra geral, haver uma reposição célere do /status quo/ anterior à deslocação ou retenção ilícitas, de modo a não beneficiar o progenitor infrator.
 
-  (i): Aprecie a decisão.
+A questão foi colocada ao TJ em sede do Regulamento Bruxelas II /bis/ no Acórdão de 13 de julho de 2013, /TT contra AK/, proc. C-87/22, que concluiu que a transferência era possível nestes casos:
 
-  (ii): Imagine que, durante a tramitação do processo, *Júlio* apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação definitiva das responsabilidades parentais, as crianças viverão com *Ana* e *Júlio* só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhois poderiam manter a decisão de recusar o regresso?
+#+begin_quote
+46 De resto, resulta da jurisprudência do Tribunal de Justiça que a exigência prevista no artigo 15.º,vn.º 1, do Regulamento n.º 2201/2003, segundo a qual a remessa de um processo a um tribunal devoutro Estado-Membro deve servir o superior interesse da criança, constitui uma expressão dovprincípio orientador que guiou o legislador da União na conceção deste regulamento e que devevestruturar a sua aplicação nos processos de responsabilidade parental por ele abrangidos (v., neste
+sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.ºs 43 e 63).
 
-  (iii): *Júlio* pretende ainda que os tribunais portugueses decidam sobre a regulação das responsabilidades parentais sobre as crianças. Os tribunais portugueses ainda são internacionalmente competentes para julgar essa matéria?
+47 Esta exigência significa necessariamente que deve ser tido em consideração o direito fundamental da criança, enunciado no artigo 24.º, n.º 3, da Carta dos Direitos Fundamentais, de manter regularmente relações pessoais e contactos diretos com ambos os progenitores (v., neste sentido, Acórdão de 23 de dezembro de 2009, Detiček, C-403/09 PPU, EU:C:2009:810, n.º 56).
+
+48 É verdade que a deslocação ilícita de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste sentido, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida).
+
+49 Todavia, esta circunstância não implica que o tribunal competente nos termos do artigo 10.º do Regulamento n.º 2201/2003 não consiga ilidir, tendo em conta o superior interessa da criança, a forte presunção a favor da manutenção da sua própria competência que decorre deste regulamento (v., neste sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.º 49) e deva sistematicamente renunciar a exercer a faculdade de pedir a transferência prevista
+no artigo 15.º, n.º 1, alínea b), desse regulamento quando o tribunal para quem a equaciona fazer se encontra no Estado-Membro para o qual a criança foi deslocada ilicitamente por um dos pais.
+
+50 Implica, em contrapartida, que o tribunal competente para conhecer do mérito, nos termos do artigo 10.º do Regulamento n.º 2201/2003 se certifique, à luz das circunstâncias concretas do processo, de que a transferência equacionada não é suscetível de ter um impacto negativo nas relações afetivas, familiares e sociais da criança em causa ou na sua situação material (v., neste sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.os 58 e 59), e pondere, de forma equilibrada e razoável, no superior interesse da criança, todos os interesses em jogo, com base em considerações objetivas relativas à própria pessoa da criança e ao seu meio social (v., neste sentido, Acórdão de 23 de dezembro de 2009, Detiček, C-403/09 PPU, EU:C:2009:810, n.º 60). Assim, se este tribunal chegar à conclusão de que a remessa do processo a um tribunal de outro Estado-Membro é contrária ao superior interesse da criança, deverá excluí-la.
+
+51 Logo, não é contrário aos objetivos prosseguidos pelo Regulamento n.o 2201/2003 que um tribunal competente em matéria de responsabilidade parental com base no artigo 10.º desse regulamento possa, a título excecional e após ter devidamente em conta, de forma equilibrada e razoável, o superior interesse da criança, pedir a remessa do processo que lhe foi submetido a um tribunal do Estado-Membro para o qual a criança em causa foi deslocada ilicitamente por um dos pais.
+#+end_quote
+
+Em suma, o TJ admitiu a possibilidade, mas não deixou de assinalar que a possibilidade de "transferência", que tem já um carácter excecional (verificar início do artigo 12.º, n.º 1) é, neste caso concreto - "transferência" de competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas -, de uma excecionalidade /acrescida/, resultante da "forte presunção a favor da manutenção da sua própria competência" (cons. 49 do Acórdão).
+
+*** *Questão 2*: Imagine agora que são os tribunais espanhois quem se consideram melhor colocados para avaliar o superior interesse da criança no caso concreto e pretendem requerer aos tribunais portugueses (tribunais da residência habitual da criança antes da deslocação ilícita) a transferência de competência. Podem fazê-lo?
+
+*Resposta:* Análise do artigo 13.º. À primeira vista a resposta seria a mesma, até porque no contexto do Regulamento Bruxelas II /bis/, no qual foi proferido o Acórdão /TT contra AK/, a questão da "transferência" de competência a pedido de um tribunal de outro Estado-Membro que não é competente estava regulada no mesmo artigo 15.º do Regulamento Bruxelas II /bis/.
+
+Todavia, o Regulamento Bruxelas II /ter/ separou em dois artigos a matéria da "transferência":
+
+  (i) quando a transferência é iniciada por um tribunal de um Estado-Membro que tem competência para regular as responsabilidades parentais, é aplicável o artigo 12.º;
+
+  (ii) quando a transferência é iniciada através de um pedido de um tribunal de um Estado-Membro que /não/ tem competência para regular as responsabilidades parentais, é aplicável o artigo 13.º.
+
+  O artigo 13.º estabelece que o regime de transferência, quando iniciado através de um pedido de um tribunal de um Estado-Membro que /não/ tem competência para regular as responsabilidade parentais, é aplicável "(...) sem prejuízo do artigo 9.º (...)" (cf. artigo 13.º, n.º 1).
+
+  O que se deve entender por este "sem prejuízo do artigo 9.º"? Parece que, nos casos de rapto internacional de crianças, o tribunal do Estado-Membro para onde a criança foi ilicitamente deslocada ou retida /não pode/ requerer a transferência de competência ao tribunal do Estado-Membro da residência habitual da criança imediatamente anterior à deslocação ou retenção ilícitas.
+
+*** *Questão 3*: Admita agora que *Júlio* tinha intentado apenas o pedido de regresso junto dos tribunais espanhois e que o mesmo foi indeferido com fundamento apenas no risco grave para a criança, uma vez que *Júlio* admitiu ter sido violento, por uma vez, contra a *Ana*. A decisão foi proferida sem audição das crianças, com fundamento na necessidade de cumprir o prazo de seis semanas.
+
+**** (i): Aprecie a decisão.
+
+*Resposta:* Pretende-se que os formandos ponderem duas coisas:
+
+(1) Análise do artigo 13.º, n.º 1, alínea /b)/, da Convenção da Haia de 1980. Estamos perante uma situação de risco grave para a criança?
+
+(2) A necessidade de audição da criança. O fundamento indicado (cumprimento do prazo previsto no art. 24.º, n.º 1) não parece admissível para não dar à criança a oportunidade real e efetiva de expressar as suas opiniões.
+
+****  (ii): Imagine que, durante a tramitação do processo, *Júlio* apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação definitiva das responsabilidades parentais, as crianças viverão com *Ana* e *Júlio* só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhois poderiam manter a decisão de recusar o regresso?
+
+*Resposta:* Análise do artigo 27.º, em especial os n.ºs 3 e 4.
+
+A decisão final caberia sempre aos tribunais espanhois, que só deixariam de poder proferir uma decisão de recusa de regresso com base no artigo 13.º, n.º 1, al. /b)/ da Convenção da Haia de 1980, se formarem a convicção de que foram tomadas providências adequadas para garantir a proteção da criança após o seu regresso.
+
+****  (iii): *Júlio* pretende ainda que os tribunais portugueses decidam sobre a regulação das responsabilidades parentais sobre as crianças. Os tribunais portugueses ainda são internacionalmente competentes para julgar essa matéria?
+
+*Resposta: Análise do artigo 29.º, em especial n.ºs 3 e 5 e artigo 10.º.
+
+Se em momento anterior ao proferimento da decisão que recusa o regresso da criança já estiver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses /e/ o tribunal que proferiu a decisão de recusa tiver conhecimento disso, esse tribunal é obrigado a transmitir ao tribunal português, no prazo de um mês a contar da data da decisão de recusa, (i) cópia da decisão, (ii) certidão emitida nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal e quaisquer outros documentos que considere pertinentes (art. 29.º, n.º 3).
+
+Se /não/ estiver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses, *Júlio* tem um prazo de 3 meses, a contar da data de notificação da decisão que recusa o regresso da criança, para instaurar a ação de regulação das responsabilidade parentais nos tribunais portugueses, devendo juntar os seguintes documentos: (i) cópia da decisão, (ii) certidão emitida nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal que recusou o regresso das crianças.
+
+Em suma, nestes casos a decisão /definitiva/ acaba por ficar nos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocaçãou retenção ilícitas, pois se a decisão da ação de regulação das responsabilidades parentais implicar o regresso da criança, essa decisão sobrepõe-se à decisão que recusou o regresso (art. 29.º, n.º 6).
 
 * Caso n.º 2
 ** Enunciado
@@ -75,17 +129,68 @@ de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que
 
 ** Tópicos de resolução (abreviados)
 
-*Questão 1:* Admita que, em janeiro de 2024, o *pai* apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia
-de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o artigo 9.º do Regulamento Bruxelas II /ter/ não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reflexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
+*** *Questão 1:* Admita que, em janeiro de 2024, o *pai* apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o artigo 9.º do Regulamento Bruxelas II /ter/ não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reflexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
 
-*Questão 2:* A pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
+*Resposta:* A questão que aqui se coloca é a de saber se o facto de o pedido de regresso ao abrigo da Convenção da Haia de 1980 ter sido feito por uma autoridade central de Estado terceiro (i.e., que não é um Estado-Membro) tem como consequência a inaplicabilidade ao caso do artigo 9.º (manutenção da competência dos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas).
 
-*Questão 3:* Admita agora que o *pai* efetua um novo pedido de regresso da criança, desta feita para a Alemanha e que o tribunal português, durante a pendência desse processo, pretende estabelecer um regime de visitas entre a criança e o *pai*. Pode fazê-lo?
+A questão foi colocada ao TJ no Acórdão de 20 de junho de 2024, /Pai contra Mãe/, proc. C-32/23, no qual o TJ concluiu que:
 
-*Questão 4:* Admita agora que o tribunal português profere decisão de não regresso da criança à Alemanha, unicamente fundada na oposição da criança a regressar.
+#+begin_quote
+        59 Deste modo, a mera circunstância de o progenitor cujo direito de guarda foi violado ter instaurado, sem sucesso, um processo nos termos da Convenção da Haia de 1980 a fim de obter o regresso da criança deslocada ou retida ilicitamente por intermédio de uma autoridade central de um país terceiro e transmitido, posteriormente, às autoridades competentes de um Estado-Membro, não tem incidência na aplicação, em tal situação, da regra de competência especial prevista no artigo 10.o do Regulamento n.º 2201/2003.
+#+end_quote
 
-  (i): A decisão podia ser proferida sem audição do *pai*?
+Resulta, assim, que a intervenção da autoridade central de Estado terceiro, que é Estado Contratante da Convenção da Haia de 1980, não tem reflexos na aferição da critérios de aplicabilidade do artigo 9.º.
 
-  (ii): A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+*** *Questão 2:* A pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
 
-  (iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+*Resposta:*
+
+Pretende-se aqui que os formandos reflictam sobre o conceito de pedido de regresso, expresso no artigo 9.º e que é relevante para aferir da aplicabilidade desta norma atributiva de competência internacional.
+
+O ponto decisivo é que foi pedido o regresso para um Estado (Suíça) diferente daquele no qual a criança residia habitualmente antes da deslocação ou retenção ilícitas (Alemanha).
+
+O TJ já esclareceu no Acórdão de 20 de junho de 2024, /Pai contra Mãe/, proc. C-32/23, que:
+
+#+begin_quote
+        67 Segundo jurisprudência constante, na interpretação de uma disposição do direito da União, há que ter em conta não só os seus termos, mas também o seu contexto e os objetivos prosseguidos pela regulamentação de que faz parte [v., neste sentido, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.º 39 e jurisprudência referida].
+
+        (...)
+
+        70 Por conseguinte, é lógico e conforme à sistemática das regras de competência em matéria de responsabilidade parental previstas pelo Regulamento n.o 2201/2003 que, por um lado, o «pedido de regresso», referido no artigo 10.o deste regulamento, deve ser dirigido às autoridades competentes do Estado-Membro no território do qual a criança foi deslocada ilicitamente e se encontra fisicamente e, por outro, este mesmo pedido visa obter o regresso dessa criança aoEstado-Membro em cujo território tinha a sua residência imediatamente antes da deslocação ilícita, e cujos órgãos jurisdicionais estão, como o Tribunal de Justiça já declarou, devido à sua proximidade geográfica, geralmente mais bem colocados para apreciar as medidas a adotar no interesse da criança [v., neste sentido, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.o 33 e jurisprudência referida]. Ora, um pedido destinado a que a criança seja levada para outro Estado, que seja um país terceiro, no território do qual não residiu de forma habitual antes da sua deslocação ilícita, não cumpre esta lógica.
+
+        71 Por último, esta interpretação é corroborada pelo objetivo do Regulamento n.º 2201/2003. Com efeito, este visa dissuadir os raptos de crianças entre Estados e, em caso de tal, obter o regresso imediato da criança ao Estado da sua residência habitual (Acórdão de 19 de setembro de 2018, C.E. e N.E., C-325/18 PPU e C-375/18 PPU, EU:C:2018:739, n.º 47).
+#+end_quote
+
+Em conclusão: o pedido efetuado /não pode/ ser considerado um pedido de regresso para efeitos do artigo 9.º.
+
+*** *Questão 3:* Admita agora que o *pai* efetua um novo pedido de regresso da criança, desta feita para a Alemanha e que o tribunal português, durante a pendência desse processo, pretende estabelecer um regime de visitas entre a criança e o *pai*. Pode fazê-lo?
+
+*Resposta:*
+
+Análise do artigo 27.º, n.º 2. O tribunal pode (mas não tem de) regular o contacto entre a criança e o progenitor que pede o regresso. O princípio retor é o superior interesse da criança. Trata-se de uma faculdade importante, porque:
+
+#+begin_quote
+        (...) a deslocação ilícita [ou retenção ilícita] de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste sentido, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida). (Ac. TT contra AK, proc. C-87/22, considerando n.º 48)
+#+end_quote
+
+O estabelecimento desse contacto segue o disposto no artigo 15.º.
+
+*** *Questão 4:* Admita agora que o tribunal português profere decisão de não regresso da criança à Alemanha, unicamente fundada na oposição da criança a regressar.
+
+****  (i): A decisão podia ser proferida sem audição do *pai*?
+
+*Resposta:* não (art. 27.º, n.º 1).
+
+****  (ii): A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+
+*Resposta:* sim (arts. 29.º, n.ºs 3, 5 e 6)
+
+****  (iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+
+*Resposta:* apesar da letra do artigo 29.º, n.º 1, entendo que este regime de "overruling" dos tribunais de Estados-Membros da residência habitual das crianças antes da deslocação ou retenção ilícitas se aplica também quando se utilizam /cumulativamente/ os fundamentos de risco grave para criança e oposição da criança ao regresso /e não apenas/ quando se fundamenta /exclusivamente/ num destes dois fundamentos.
+
+Este regime só não é aplicável, na minha opinião, se a decisão de recusa se fundar /também/ num outro motivo de recusa previsto na Convenção da Haia de 1980 que não seja um destes dois.
+
+* Footnotes
+
+[fn:1] Doravante, os artigos referidos sem indicação de fonte pertencem a este Regulamento.
