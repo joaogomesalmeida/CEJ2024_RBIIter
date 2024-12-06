@@ -62,7 +62,7 @@ no artigo 15.º, n.º 1, alínea b), desse regulamento quando o tribunal para qu
 51 Logo, não é contrário aos objetivos prosseguidos pelo Regulamento n.o 2201/2003 que um tribunal competente em matéria de responsabilidade parental com base no artigo 10.º desse regulamento possa, a título excecional e após ter devidamente em conta, de forma equilibrada e razoável, o superior interesse da criança, pedir a remessa do processo que lhe foi submetido a um tribunal do Estado-Membro para o qual a criança em causa foi deslocada ilicitamente por um dos pais.
 #+end_quote
 
-Em suma, o TJ admitiu a possibilidade, mas não deixou de assinalar que a possibilidade de "transferência", que tem já um carácter excecional (verificar início do artigo 12.º, n.º 1) é, neste caso concreto - "transferência" de competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas -, de uma excecionalidade /acrescida/, resultante da "forte presunção a favor da manutenção da sua própria competência" (cons. 49 do Acórdão).
+Em suma, o TJ admitiu a possibilidade de "transferência", mas não deixou de assinalar que esta possiblidade, que tem já um carácter excecional (verificar início do artigo 12.º, n.º 1) é, neste caso concreto - "transferência" de competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas -, de uma excecionalidade /acrescida/, resultante da "forte presunção a favor da manutenção da sua própria competência" (cons. 49 do Acórdão).
 
 *** *Questão 2*: Imagine agora que são os tribunais espanhois quem se consideram melhor colocados para avaliar o superior interesse da criança no caso concreto e pretendem requerer aos tribunais portugueses (tribunais da residência habitual da criança antes da deslocação ilícita) a transferência de competência. Podem fazê-lo?
 
@@ -114,7 +114,7 @@ O *pai* visitava regularmente a *mãe* e o *filho*. Os *pais* acordaram que a *m
 *Questão 1:* Admita que, em janeiro de 2024, o *pai* apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia
 de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o artigo 9.º do Regulamento Bruxelas II /ter/ não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reflexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
 
-*Questão 2:* A pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
+*Questão 2:* O pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
 
 *Questão 3:* Admita agora que o *pai* efetua um novo pedido de regresso da criança, desta feita para a Alemanha e que o tribunal português, durante a pendência desse processo, pretende estabelecer um regime de visitas entre a criança e o *pai*. Pode fazê-lo?
 
@@ -141,7 +141,7 @@ A questão foi colocada ao TJ no Acórdão de 20 de junho de 2024, /Pai contra M
 
 Resulta, assim, que a intervenção da autoridade central de Estado terceiro, que é Estado Contratante da Convenção da Haia de 1980, não tem reflexos na aferição da critérios de aplicabilidade do artigo 9.º.
 
-*** *Questão 2:* A pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
+*** *Questão 2:* O pedido de regresso das crianças para a Suíça, efetuado pelo *pai* pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. /b)/, subal. i), do Regulamento Bruxelas II /ter/?
 
 *Resposta:*
 
