@@ -1,0 +1,293 @@
+#+title: Apresentação sobre Rapto Internacional de Crianças
+#+date: 17 de fevereiro de 2023
+#+author: João Gomes de Almeida
+#+OPTIONS: toc:nil num:nil
+#+LATEX_CLASS: koma-article
+#+LaTeX_HEADER: \usepackage{fontspec}
+#+latex_header: \usepackage{polyglossia}
+#+LaTeX_HEADER: \setmainlanguage{portuguese}
+#+LaTeX_HEADER: \setotherlanguage{english}
+#+latex_header: \addto\captionsportuguese{\def\contentsname{Índice}}
+#+language: pt
+# a varíavel org-export-smart-quotes-alist não tem pt, por isso às "smart quotes" não funcionam. Quando mudo para italiano funciona. _RESOLVIDO_: aditei código ao config.el.
+#+options: toc:nil num:nil
+#+LATEX_HEADER: \KOMAoptions{headings=small}
+#+LATEX_COMPILER: xelatex
+
+* Slide 1
+
+Bem-vindos de volta. Espero que a pausa tenha sido retemperadora.
+
+Para estes 40 minutos, o meu objetivo é dar uma panorâmica geral sobre o modo como Regulamento Bruxelas II /ter/ trata a questão do rapto internacional de crianças. Nesta matéria, como veremos, não devemos perder de vista a Convenção da Haia de 1980 sobre os aspectos civis do rapto internacional de crianças, que doravante designarei apenas por Convenção da Haia de 1980. Apesar disso, o foco hoje é o Regulamento Bruxelas II /ter/.
+
+Nesta apresentação não vou repetir a matéria dos âmbitos de aplicação do Regulamento Bruxelas II /ter/, uma vez que já a abordei na primeira apresentação.
+
+* Slide 2 ocultado (os restantes foram renumerados em conformidade) :noexport:
+
+Uma brevíssima menção aos âmbitos de aplicação do Regulamento Bruxelas II /ter/, necessária apenas porque - por via dos dilúvios de dezembro passado - algum tempo passou desde o nosso último /workshop/.
+
+Para sabermos se o RB II /ter/  é aplicável temos, em cada litígio, de verificar se os seus âmbitos de aplicação estão preenchidos:
+- O espacial exige que o litígio seja transfronteiriço, isto é, tenha pontos de contacto relevantes com mais de um Estado soberano; no caso do rapto internacional de crianças a questão é de fácil apreensão porque a criança é desloca ou retida num Estado que não é o da sua (anterior) residência habitual;
+- O temporal exige, no caso concreto do rapto internacional de criança, que a ação em que se pede o regresso tenha sido intentada a partir de 1 de agosto de 2022.
+- O material exige, no que ao rapto internacional de crianças diz respeito, que a ação tenha por objeto o regresso de uma criança na sequência de ela ter sido deslocada ou retida ilicitamente.
+
+Preenchidos os âmbitos, o juiz português está vinculado a aplicar as regras do Regulamento Bruxelas II /ter/.
+
+* Slide 2
+
+Podemos dizer que o tratamento dado pelo Regulamento Bruxelas II /ter/ ao rapto internacional de crianças é uma das suas principais e mais visíveis novidades.
+
+O Regulamento Bruxelas II /ter/ autonomiza a matéria do rapto internacional de crianças, atribuindo-lhe um capítulo próprio (o III), quando no Regulamento anterior, a sua regulação estava confinada ao artigo 11.º inserido no capítulo das responsabilidades parentais.
+
+Esta autonomização - e consequente destaque do Rapto Internacional de Crianças - advém também do elevado número de considerando que lhe foram dedicados -  mais de vinte - e do novo n.º 3 do artigo 1.º, que expressamente prevê - em número autónomo - o rapto internacional de crianças como uma das matérias incluídas no âmbito de aplicação material do Regulamento Bruxelas II /ter/.
+
+E relevo também que o legislador europeu alterou a designação do Regulamento. O Regulamento Bruxelas II /bis/ mencionava apenas a matéria matrimonial e a matéria de responsabilidades parentais (na qual se incluía o rapto). O novo Regulamento Bruxelas II /ter/ menciona no seu título que é relativo à matéria matrimonial, à matéria de responsabilidade parental e ao rapto internacional de crianças.
+
+Não me parece que hajam dúvidas sobre a intenção do legislador europeu de colocar o rapto como matéria autónoma. Podemos hoje dizer que o Regulamento Bruxelas II /ter/ é, quanto às matérias, um regulamento /triplo/.
+
+* Slide 3
+
+Chamo agora a vossa atenção para um primeiro ponto que pode, mas não deve, passar despercebido.
+
+O Regulamento Bruxelas II /bis/ define o conceito de criança como qualquer pessoa com idade inferior a 18 anos. Este conceito é /primordial/ em matéria de responsabilidade parental e é portanto muito positivo que a definição tenha sido introduzida.
+
+Todavia, a Convenção da Haia de 1980 utiliza um conceito diferente de criança, que consta do seu artigo 4.º e considera apenas crianças as pessoas com idade inferior a 16 anos.
+
+O que significa que o Regulamento Bruxelas II /ter/ na verdade utiliza /dois conceitos diferentes de criança/:
+1. Em matéria de responsabilidade parental, criança são as pessoas com idade inferior a 18 anos; e
+2. Em matéria de rapto internacional de crianças, criança é qualquer pessoa com idade inferior a 16 anos.
+
+Isso resulta de forma clara, parece-me, do artigo 22.º e do considerando n.º 17 do Regulamento Bruxelas II /ter/, mas também da 1.ª ideia forte que vos quero falar nesta matéria: a ideia de complementariedade.
+
+* Slide 4
+
+O regime do rapto internacional de crianças estabelecido no Regulamento Bruxelas II /ter/, tal como o anteriormente previsto no Regulamento Bruxelas II /bis/, está numa relação de complementaridade com o consagrado na Convenção da Haia de 1980. O Regulamento Bruxelas II /ter/ /não visa afastar ou substituir completamente/ a Convenção da Haia de 1980, antes complementar as normas desta Convenção.
+
+Deste modo, o legislador da União Europeia não instituiu um regime completo para regular a deslocação e retenção ilícita de crianças. O regime previsto no Regulamento Bruxelas II /ter/ prevê apenas as normas jurídicas sobre deslocação ou retenção ilícitas de crianças que foram consideradas necessárias para completar o regime da Convenção da Haia.
+
+Isto significa que num determinado caso concreto as regras do Regulamento Bruxelas II /ter/ têm de ser aplicadas em conjunto com as normas da Convenção da Haia de 1980 para encontrarmos o regime completo.
+
+* Slide 5
+
+No entanto e apesar desta relação de complementaridade, não deixam de existir na ordem jurídica dos Estados-membros da União Europeia dois instrumentos supraestaduais (o Regulamento e a Convenção) que regulam a mesma matéria (deslocação ou retenção ilícita de crianças).
+
+Torna-se assim necessário delimitar a que deslocações ou retenções ilícitas se aplicam as regras da Convenção da Haia de 1980 complementadas pelas regras do Regulamento Bruxelas II /ter/. Essa delimitação deduz-se da articulação do artigo 96.º do Regulamento Bruxelas II /ter/ e é sintetizada pelo TJ, em sede do anterior Regulamento, quando referiu no considerando 78 do Parecer 1/13 que a aplicabilidade das regras do Regulamento e da Convenção constituia um conjunto normativo indivisível, aplicável “aos procedimentos de regresso de crianças ilicitamente deslocadas dentro da União”.
+
+Deste modo, para que as normas do Regulamento Bruxelas II /ter/ sejam aplicáveis é necessário que a deslocação ou retenção ilícita ocorra dentro no espaço jurídico da União Europeia. Nos casos em que deslocação ou retenção ilícita envolva um Estado terceiro que é parte contratante da Convenção e um Estado-membro da União Europeia, continua-se a aplicar apenas e somente as normas da Convenção da Haia de 1980.
+
+Assim, e por exemplo, num caso em que a criança residia habitualmente no Brazil e foi ilicitamente deslocada para Portugal, aplicar-se-ão somente às regras da Convenção da Haia de 1980. Se a criança, ao invés, residisse habitualmente em França, então seriam aplicáveis as regras da Convenção da Haia de 1980 complementadas pelas regras do Regulamento Bruxelas II /ter/, pois a deslocação ilícita teria ocorrido dentro do espaço da União Europeia, uma vez que a situação teria ocorrido no território de dois Estados-Membros.
+
+* Slide 6
+
+Em matéria de audição da criança, há alterações que me parecem significativas.
+
+/Primeiro/, é dado muito maior destaque ao direito da criança de ter oportunidade de expressar a sua opinião, consagrado agora em dois preceitos autónomos (o art. 21.º e o art. 26.º), um para a matéria da responsabilidade parental e outro para o rapto internacional de crianças.
+
+/Segundo/ e de acordo com uma interpretação possível do regime previsto no Regulamento anterior, o tribunal deve decidir ouvir ou não a criança, tendo em conta a idade e o grau de maturidade da criança.
+
+Esta interpretação era discutível, à luz do art. 24.º Carta dos Direitos Fundamentais da União Europeia e, sobretudo, do artigo 12.º da Convenção sobre os Direitos da Criança, uma vez que este último instrumento estabelece que deve ser garantido à criança com capacidade de discernimento o direito de exprimir livremente a sua opinião sobre as questões que lhe respeitem.
+
+Acresce, para além disso, que a prática tem demonstrado algumas interpretações diferentes. Em Inglaterra, por exemplo, tem-se entendido que, em regra, as crianças com 6 ou mais anos, já têm idade e grau de maturidade suficiente para ser ouvidas nestes processos. Noutros Estados, a idade regra é os 12 anos de idade. Existem casos em que crianças de 14-15 anos de idade não foram ouvidas.
+
+* Slide 7
+
+A nova redação, constante do artigo 21.º do Regulamento Bruxelas II /ter/, conjugada com o considerando 39, alinha de forma mais perfeita o regime da audição da criança com a Convenção sobre os Direitos da Criança e a Carta dos Direitos Fundamentais da União Europeia.
+
+O critério para ouvir a criança agora consagrado é o que consta da Convenção sobre os Direitos da Criança: ela ser capaz de formar as suas próprias opiniões.
+
+Também se clarifica que à criança tem de ser dada a oportunidade real e efetiva de exprimir livremente as suas opiniões durante o processo.
+
+Parece-me importante este elemento clarificador, e a sua importância pode ilustrar-se com os factos do Acórdão do Tribunal de Justiça, proferido no caso Aguirre Zarraga contra Pelz, processo C-491/10PPU.
+
+Os factos do caso são, sumariamente, os seguintes:
+
+1.	a mãe raptou a criança para a Alemanha.
+
+2.	O tribunal espanhol (da anterior residência habitual) foi chamado a pronunciar sobre a decisão de não regresso proferida pelos tribunais alemães.
+
+3.	O tribunal espanhol convidou a mãe a comparecer na audiência com a criança para que esta pudesse ser ouvida.
+
+4.	Estavam a correr procedimentos criminais contra a mãe em Espanha. Por esse motivo, a mãe não estava disposta a deslocar-se para Espanha sem que o tribunal lhe desse garantias de que não seria presa. Adicionalmente, pediu também garantias de que a criança seria autorizada a regressar com ela para a Alemanha após a conclusão da audiência.
+
+5.	O tribunal espanhol recusou-se a dar as garantias pedidas pela mãe.
+
+6.	A mãe sugeriu então que a criança fosse ouvida por vídeo-conferência.
+
+7.	O tribunal espanhol recusou esta sugestão.
+
+Será que o tribunal espanhol deu à criança a oportunidade de ser ouvida? O tribunal espanhol considerou que sim. A mãe considerou que não.
+
+Eu tenho as dúvidas. Mas à luz do novo artigo 21.º, penso que todos concordaremos que a criança não terá tido, neste processo, uma oportunidade /real e efetiva/ de ser ouvida neste processo.
+
+* Slide 8
+
+Quer o Regulamento anterior, quer o novo Regulamento Bruxelas II /ter/ se encontram ordenados à ideia de favorecimento de uma decisão célere de regresso da criança deslocada ou retida ilicitamente. Esta ideia retira-se claramente do considerando n.º 40 do Regulamento, que dispõe que “Em caso de deslocação ou de retenção ilícitas de uma criança, deve ser obtido sem demora o seu regresso”.
+
+Estas são as nossas duas próximas ideias: celeridade e preferência por decisões de regresso. Muitas, se não todas as alterações ao regime da Convenção da Haia de 1980 visam promover decisões mais rápidas /e/ favorecer o proferimento e a exequibilidade de decisões que ordenem o regresso da criança.
+
+* Slide 9
+
+Já no Regulamento anterior se reforçava e reiterava a ideia do procedimento urgente, prevista nos artigos 2.º e 11.º da Convenção da Haia de 1980.
+
+A diferença estava na natureza do prazo de 6 semanas: na Convenção da Haia de 1980 este prazo não tem natureza obrigatória.
+
+Segundo o Relatório Explicativo da Convenção o prazo tem a mera função de chamar a atenção das autoridades competentes que o tempo, nestes procedimentos, é um fator decisivo.
+
+Pelo contrário, o prazo de 6 semanas previsto n.º 3 do artigo 11.º do Regulamento Bruxelas II /bis/ constituía uma verdadeira obrigação à cargo dos tribunais dos Estados-membros.
+
+O prazo de 6 semanas não tem sido genericamente cumprido.
+
+De acordo com a análise estatística efetuada em 2015, o prazo médio de conclusão de um processo de rapto internacional de crianças, ocorrido /dentro/ do espaço europeu, foi de 150 dias, ou seja, mais de 21 semanas. E apenas 14% dos casos foram resolvidos cumprindo o prazo de 6 semanas.
+
+* Slide 10
+
+Uma das questões difíceis colocadas pelo regime do Regulamento anterior (art. 11.º, n.º 3) era a de determinar qual a natureza da decisão que tem de ser proferida no prazo de 6 semanas.
+
+Debatia-se o prazo de 6 semanas respeitava:
+
+1. à decisão de 1.ª instância;
+
+2. à decisão final;
+
+3. à decisão que tenha força executória no Estado-Membro de origem; ou
+
+4. à decisão de cada uma das instâncias.
+
+O Regulamento Bruxelas II /ter/ vem agora clarificar que o prazo de 6 semanas é aplicável a cada uma das instâncias. No que se refere à 1.ª instância, o prazo conta-se a partir da data de instauração da ação. No que se refere à instância de recurso, conta-se a partir da data em que tiverem sido efetuadas todas as diligências processuais e o tribunal estiver em condições de examinar o recurso.
+
+A nova solução parece-me bem-vinda por duas ordens de razão: (i) resolve uma dúvida interpretativa e (ii) continuando a ser ambiciosa no prazo, é, parece-me, bastante mais razoável e atingível o que pode incentivar a um maior cumprimento.
+
+Uma breve menção a duas soluções que estavam consagradas na Proposta do Regulamento Bruxelas II bis e que, na versão final, surgem apenas como recomendações dadas pelo Legislador europeu aos vários Estados-Membros: a concentração de competências e a limitação de recursos.
+
+Uma declaração de interesses: eu sou um forte adepto da concentração de competências em matéria de rapto internacional de crianças, que me parece muito útil senão mesmo necessária num Estado-Membro como Portugal.
+
+Os processos de regresso da criança são complexos, pela necessidade de conjugar instrumentos normativos supranacionais, mas sobretudo pelos interesses em presença; adicionalmente, devem ser decididos no mais breve prazo possível, pois quanto maior for o tempo despendido para proferir a decisão, maior o risco de enfraquecimento dos laços entre a criança e o progenitor que não cometeu a deslocação ou retenção ilícita.
+
+Penso que a concentração (e consequente especialização) dos tribunais permitirá dar boa resposta a estas características, normalmente antagónicas, dos processos de regresso da criança.
+
+A concentração de competências já é advogada pela própria Conferência da Haia, no Guia de Boas Práticas de implementação da Convenção da Haia de 1980.
+Entre as principais vantagens que se apontam a concentração dos tribunais, figuram:
+
+1. Maior acumulação de experiência dos juízes;
+
+2. Redução de atrasos (ou seja, maior celeridade);
+
+3. Maior consistência nas decisões;
+
+4. Desenvolvimento mais fácil da confiança mútua entre juízes e autoridades de vários Estados contratantes;
+
+5. Maior e melhor compreensão, a nível multidisciplinar, dos objetivos da Convenção.
+
+Esta solução já se encontra consagrada em muitos Estados-Contratantes da Convenção da Haia de 1980. Por exemplo, e olhando apenas para os que nos são mais próximos, está consagrada na Alemanha, França, Inglaterra e País de Galês e Finlandia.
+
+Quanto à outra recomendação, a vantagem da redução do número de recursos admissíveis para o objetivo da celeridade é inequívoca, particularmente em face da proposta de clarificação de que o prazo de 6 semanas é para cada uma das instâncias. Com uma instância de recurso estaremos a falar num prazo de cerca de 16 semanas; com duas instâncias, num prazo de cerca de 26 semanas.
+
+Porque é que estas propostas ficaram reduzidas a "meras" recomendações? Eu penso que foi pela sua visibilidade e pelas dúvidas que suscitavam quer a nível do princípio da subsidiariedade quer a nível político, pois poderiam ser vistas como uma intromissão da União Europeia no modo como cada Estado-Membro configura o seu poder judiciário.
+
+De qualquer modo, e num espírito de incentivo à mudança, uma maneira muito simples de Portugal implementar estas duas recomendações seria a concentrar a competência em matéria de rapto internacional de criança nos tribunais da relação (ou nnum tribunal de 1.ª instância da circunscrição de cada um dos tribunais da Relação) e admitir apenas um grau de recurso (de preferência para um único tribunal (a minha preferência seria o Supremo Tribunal de Justiça)).
+
+* Slide 11
+
+Vejamos agora a ideia da preferência por ações de regresso. A ideia pode ser primariamente explicada pela natureza da situação: o rapto traduz-se numa deslocação ou retenção /ilícitas/ da crianças. O objetivo, até o objetivo da Convenção, é restabelecer tão cedo quanto possível, o /status quo/ anterior a atuação ilícita.
+
+O regime do Regulamento Bruxelas II /ter/ vai mais além do que a Convenção em vários pontos.
+
+* Slide 12
+
+Em primeiro lugar o Regulamento Bruxelas II /ter/ dificulta o proferimento de decisões de recusa do regresso.
+
+Torna obrigatória a audição da parte que requereu o regresso, sempre que o tribunal entenda que deva proferir uma decisão de não regresso. A questão pode ser vista como uma manifestação do princípio do contraditório, mas ela parece-me algo mais.
+
+O fundamento de recusa assente no risco grave para a criança no regresso é o fundamento mais utilizado para proferir decisões de recusa. No relatório estatístico de 2015, quando as decisões de recusa utilizaram um único fundamento só foi marginalmente ultrapassado pelo fundamento assente no facto de que a criança não se encontra no Estado requerido. Quando as decisões utilizaram fundamentos múltiplos, o fundamento do risco grave foi o mais utilizado.
+
+O Regulamento Bruxelas II /ter/, à semelhança do Regulamento anterior, limita a utilização do fundamento assente em risco grave. Ele não pode ser utilizado para recusar o regresso se forem tomadas provisões adequadas para proteger a criança aquando do regresso. Promove-se aqui um diálogo entre as instituições do Estado-Membro da anterior residência habitual e o Estado-Membro para onde foi deslocada ou retida ilicitamente a criança.
+
+O Regulamento Bruxelas II /ter/ com um novo modo de assegurar que as medidas de proteção da criança são tomadas. Estabelece que o Estado-membro de refúgio pode tomar as medidas de proteção que considere adequadas e que estas medidas devem ser reconhecidas e executadas nos outros Estados-Membros.
+
+É uma solução interessante e curiosa: se o Estado de refúgio tomar estas medidas de proteção não pode recusar o regresso da criança. Deste modo, as medidas de proteção decididas pelo Estado de refúgio terão de ser executadas necessariamente pelas autoridades do Estado de regresso.
+
+Quero acreditar nesta solução, mas tenho dúvidas sobre a sua eficácia. Se, depois de uma tentativa de colaboração, o Estado de refúgio considera que não foram tomadas as medidas de proteção da criança necessária pelo Estado de regresso, será que ele vai considerar suficiente uma qualquer medida de proteção que ele decida, sabendo que quem tem o poder de a executar são as autoridades do Estado de regresso?
+
+Para além disso, parece-me que, tal como o mecanismo de prevalência, é uma medida que pode ser vista como indo contra o espírito de confiança mútua.
+
+Assinalo ainda que as medidas consagradas pelo Estado de refúgio só se mantêm até que um tribunal de um Estado-Membro competente (em regra o Estado de regresso) adote medidas de proteção que ele considere adequadas.
+
+* Slide 13
+
+O Regulamento Bruxelas II /ter/ consagra agora a possibilidade de decretar a decisão de regresso executória provisoriamente.
+
+Este é uma regra de direito processual europeu que se impõe a todos os Estados-Membros e que, parece-me, pode suscitar dúvidas de compatibilidade com o princípio da subsidiariedade e da proporcionalidade.
+
+Dúvidas aparte, trata-se de um claro favorecimento das decisões de regresso que agora podem ser declaradas executórias a título provisório, independentemente de serem ou não passíveis de recurso e independentemente de o Direito processual de cada Estado-Membro estabelecer ou não essa possibilidade.
+
+* Slide 14
+
+Existem também obrigações de informação sempre que sejam proferidas decisões de recusa do regresso. O artigo 29.º desenvolve e concretiza melhor o que já se encontrava previsto no anterior Regulamento.
+
+Sempre que esteja pendente uma ação de regulação das responsabilidades parentais num tribunal do Estado-Membro da anterior residência habitual e o tribunal do Estado-Membro de refúgio tenha conhecimento, se ele proferir uma decisão de recusa de regresso, com base no fundamento de risco grave ou oposição da criança, o tribunal tem o dever de informar, no prazo de um mês, o tribunal do Estado-Membro da anterior residência habitual que está a julgar as responsabilidades parentais.
+
+Nos restantes casos, a informação deve ser prestada, no prazo de três meses, pela parte que instaure o processo de regulação das responsabilidades parentais.
+
+Esta informação visa, em minha opinião, dois objetivos: (i) facultar mais informação potencialmente relevante ao tribunal que está a julgar a matéria da responsabilidade parental e (ii) viabilizar o mecanismo de prevalência.
+
+
+* Slide 15
+
+Resulta de forma clara do artigo 29.º, n.º 6, que o mecanismo de prevalência ainda se mantém no Regulamento Bruxelas II /ter/.
+
+Se o tribunal do Estado-Membro da anterior residência habitual decidir sobre as responsabilidades parentais e essa decisão implicar o regresso da criança, a decisão prevalece sobre a decisão de recusa e deve ser reconhecida e executada no Estado-Membro de refúgio.
+
+Pode sê-lo por duas vias: o regime normal de reconhecimento e execução e, desde que preencha algumas condições, o regime mais favorável de reconhecimento e execução das decisões privilegiadas.
+
+* Slide 16
+
+Surge consagrado no Regulamento Bruxelas II /ter/, a possibilidade de suspensão ou recusa da execução quando impedimentos supervenientes à decisão de regresso conduzam à existência de um risco grave para a criança.
+
+Se os riscos forem temporários, a execução pode ser suspensa; se tiverem carácter duradouro, a execução pode ser recusada. Previamente à recusa deve ser tentada a adoção de medidas adequadas para apoiar a execução.
+
+Dito de outra forma: em sede de execução, volta o Estado-Membro de refúgio a ter a última palavra. Em certa medida, pode acompanhar-se as críticas de alguma doutrina ao mecanismo de prevalência: ele é demasiado objetivo e carecia de ser mtigado.
+
+Recordam-se do caso Aguirre Zárraga? Apesar de o TJ considerar que a decisão espanhola não podia ser recusada na Alemanha, a mesma nunca foi executada e a criança permaneceu na Alemanha.
+
+* Slide 17
+
+A quinta ideia é a de acentuar e promover a comunicação e cooperação entre os tribunais. Optei por destacar a regra geral, para se perceber que é uma intenção transversal, mas já vimos concretizações desta ideia, por exemplo, no artigo 27.º do Regulamento.
+
+É a promoção de um contacto direto entre tribunais, a nível horizontal, que é uma novidade. E foi consagrado em termos amplos, apenas com o limite do respeito pelos direitos processuais das partes no processo e pela confidencialidade das informações. Há quem defenda que tal é a base de um modelo de justiça cooperativa europeia.
+
+* Slide 18
+
+A sexta ideia diz respeito à mediação e outras formas de resolução de litígios. É uma ideia nova e pode levar-nos a um caminho algo diferente das ideias 3 e 4, traduzidas na expressão de uma preferência por decisões céleres de regresso.
+
+Aqui o foco parece ser na resolução do lítigo que, inevitavelmente, foi a causa da deslocação ou retenção ilícita. E essa resolução é procurada independentemente de conduzir ou não a um regresso da criança ao Estado-Membro da anterior residência habitual.
+
+Talvez antevendo isto, o legislador da União Europeia foi rápido a prescrever que o recurso a meios alternativos de resolução de litígios não poderia por em causa a celeridade do preceito.
+
+Veremos se através deste preceito se promovem resoluções "amigáveis" dos problemas suscitados pelo rapto internacional de crianças.
+
+* Slide 19
+
+A 7.ª ideia diz respeito à regra especial em matéria de competência internacional para regular as responsabilidades parentais nos casos de rapto internacional de crianças.
+
+A ideia é simples: a mudança de residência habitual, porque advém de uma atuação ilícita, não é relevante exceto se todos os titulares do direito de guarda derem o seu consentimento (alínea a) do artigo 9.º) ou num dos casos da alínea b).
+
+Quero salientar que o artigo 9.º só é aplicável nos casos em que a criança é deslocada ou retida ilicitamente para um Estado-Membro. Se for deslocada ou retida ilicitamente um Estado terceiro, estes preceitos não são aplicáveis.
+
+* Slide 20
+
+Nesta sede houve desenvolvimentos recentes na jurisprudência do Tribunal de Justiça, que vos quero dar nota.
+
+No primeiro caso, o Tribunal de Justiça esclareceu que o mecanismo da transferência de compoetência previsto no artigo 15.º do Regulamento Bruxelas II /bis/ (e que hoje se encontra nos artigos 12.º e 13.º do Regulamento Bruxelas II /ter/) pode ser utilizado para o tribunal do Estado da residência habitual da criança imediatamente anterior à deslocação ou retenção ilícitas transferir a sua competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas, embora tenha assinalado que há uma presunção forte a favor da competência do primeiro, que terá de ser afastada pelas circunstâncias do caso concreto.
+
+No processo C-35/23, o Tribunal de Justiça foi chamado a pronunciar-se sobre duas questões interessantes:
+
+1. na primeira, e mercê das circunstâncias do caso, a deslocação ilícita da criança ocorreu entre dois Estados-Membros, mas o primeiro pedido de regresso foi colocado perante a autoridade central de um Estado terceiro contratante da Convenção da Haia de 1980. Isto suscitou a questão de saber se a regra de competência internacional em matéria de rapto internacional era aplicável ao caso concreto.
+
+2. na segunda, foi pedido ao Tribunal de Justiça que se debruçasse sobre o conceito de pedido de regresso, uma vez que o pedido de regresso originalmente feito solicitava o regresso da criança não para o Estado-Membro da residência habitual imediatamente antes da deslocação ilícita, mas sim para o Estado terceiro onde o pai tinha a sua residência habitual.
+
+O Tribunal de Justiça esclareceu que a apresentação de um pedido de regresso através de uma autoridade central de um Estado terceiro não tinha reflexos na aplicabilidade da regra de competência internacional especial em matéria de rapto internacional e que o conceito de pedido de regresso, interpretado autonomamente, abrange apenas pedidos de regresso para o tribunal do Estado da anterior residência habitual da criança.
+
+
+* Slide 21
+
+O meu obrigado e espero não ter ultrapassado o meu tempo.

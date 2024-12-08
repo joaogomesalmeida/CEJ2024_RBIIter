@@ -36,7 +36,7 @@ Em setembro de 2024, *Júlio* apresentou um pedido de regresso junto dos tribuna
 
   (iii): *Júlio* pretende ainda que os tribunais portugueses decidam sobre a regulação das responsabilidades parentais sobre as crianças. Os tribunais portugueses ainda são internacionalmente competentes para julgar essa matéria?
 
-** Tópicos de resolução (abreviados)
+** Tópicos de resolução (abreviados) :noexport:
 
 *** *Questão 1*: *Ana* pede aos tribunais portugueses que transfiram a competência para os tribunais espanhois, alegando que (i) as crianças nunca estiveram socialmente integradas em Portugal (ii) que, para além do processo de regresso pendente, existem outros processos pendentes intentados pelos progenitores com reflexos na proximidade em matéria probatória e (iii) que o deficiente conhecimento da língua portuguesa dificultaria a tramitação do processo em tribunais portugueses e o cumprimento do direito das crianças a serem ouvidas. Por seu lado, *Júlio* opõe-se a este pedido, afirmando que não é possível efetuar uma transferência de competência para os tribunais do Estado-Membro para que foram ilicitamente deslocadas as crianças, numa situação de rapto internacional. /Quid iuris/?
 
@@ -127,7 +127,7 @@ de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que
   (iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
 
 
-** Tópicos de resolução (abreviados)
+** Tópicos de resolução (abreviados) :noexport:
 
 *** *Questão 1:* Admita que, em janeiro de 2024, o *pai* apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o artigo 9.º do Regulamento Bruxelas II /ter/ não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reflexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
 
